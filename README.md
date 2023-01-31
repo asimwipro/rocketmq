@@ -63,7 +63,7 @@ Prepare a terminal and change to the extracted `bin` directory:
 ```shell
 $ cd rocketmq-4.9.3/bin
 ```
-
+Hello world
 **1) Start NameServer**
 
 NameServer will be listening at `0.0.0.0:9876`, make sure that the port is not used by others on the local machine, and then do as follows.
